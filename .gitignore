@@ -1,0 +1,35 @@
+# .gitignore
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node / frontend
+node_modules/
+.next/
+out/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
+
+# Logs
+*.log
+
+# Editor folders
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+coverage/
+
+# Misc
+*.tmp
+*.bak
